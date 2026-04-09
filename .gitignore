@@ -1,0 +1,9 @@
+Datasets/
+Special Processing/
+.ipynb_checkpoints/
+*.tif
+*.tfw
+*.aux.xml
+*.xml
+*.gfs
+*.csv
